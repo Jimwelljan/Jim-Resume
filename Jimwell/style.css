@@ -9,7 +9,6 @@ h1 {
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
-    font-weight: bolder;
 }
 
 h2 {
@@ -55,4 +54,14 @@ h1, h2, h3 {
 }
 #mainLeft {
     border-right: 1px solid lightgray;
+}
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+    font-weight: bold; /* Add this line to make h2 elements bold */
+}
+h3 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+    font-weight: bold; /* Add this line to make h2 elements bold */
 }
